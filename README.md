@@ -8,7 +8,7 @@ Monday, 29 November 2021
 
 
 ### Presentation
-This assignment requires you to investigate a policy that supports a regulation where data use plays a prominent role. You are to choose and read about a policy to be able to introduce it (in general terms) to your colleagues as a presentation. In addition, you are to write a short summary of the policy, including some of its more important points.
+This assignment requires you to investigate a policy that supports a regulation where data use plays a prominent role (you can argue why this is the case!). You are to choose and read about a policy to be able to introduce it (in general terms) to your colleagues as a presentation.
 
 
  - Due: Wednesday, 1 December 2021 during class time
@@ -19,6 +19,8 @@ This assignment requires you to investigate a policy that supports a regulation 
 
 
 ### Written component
+You are to write a short summary of the policy in which data plays some prominent role (again, you can argue why this is the case!), including some of its more important points. Your summary should provide a good idea to the reader about what the motivation is behind the policy and what policy aims to regulate.
+
 
  - Due: Friday, 3rd December 2021 at 11:59pm
 
